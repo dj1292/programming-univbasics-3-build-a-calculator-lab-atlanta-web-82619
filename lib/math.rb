@@ -24,6 +24,6 @@ return percent
 end
 
 def square_root(num)
-integer = num.sqrt()
+integer = Math.sqrt(num)
 return integer
 end
