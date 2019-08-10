@@ -24,6 +24,6 @@ return percent
 end
 
 def square_root(num)
-integer = num ** num 
+integer = num 
 return integer
 end
