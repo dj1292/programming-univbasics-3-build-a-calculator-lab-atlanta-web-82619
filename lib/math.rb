@@ -24,6 +24,6 @@ return percent
 end
 
 def square_root(num)
-integer = num 
+integer = num.sprt
 return integer
 end
